@@ -24,7 +24,7 @@ sub BUILDARGS {
         return +{ auth_type => $type, username => $username, password => $password };
     }
     else {
-        my ($username, $password) = split ':' => decode_base64( $credentials );
+        my ($username, $password) = decode_base64( $credentials ) =~ /^([^:]+):(.*)$/;
         return +{ auth_type => $type, username => $username, password => $password };
     }
 }
