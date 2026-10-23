@@ -158,6 +158,7 @@ The source code repository for HTTP-Headers-ActionPack can be found at [https://
 
 - Stevan Little <stevan@cpan.org>
 - Dave Rolsky <autarch@urth.org>
+- Robert Rothenberg <perl@rhizomnic.com>
 
 # CONTRIBUTORS
 
@@ -165,7 +166,6 @@ The source code repository for HTTP-Headers-ActionPack can be found at [https://
 - Florian Ragwitz <rafl@debian.org>
 - Jesse Luehrs <doy@tozt.net>
 - Karen Etheridge <ether@cpan.org>
-- Robert Rothenberg <perl@rhizomnic.com>
 
 # COPYRIGHT AND LICENSE
 
