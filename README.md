@@ -161,6 +161,7 @@ bugs may be submitted through [https://github.com/houseabsolute/http-headers-act
 - Florian Ragwitz <rafl@debian.org>
 - Jesse Luehrs <doy@tozt.net>
 - Karen Etheridge <ether@cpan.org>
+- Robert Rothenberg <perl@rhizomnic.com>
 
 # COPYRIGHT AND LICENCE
 

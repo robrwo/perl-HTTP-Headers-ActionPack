@@ -22,6 +22,7 @@ on 'test' => sub {
   requires "HTTP::Response" => "0";
   requires "Test::Fatal" => "0";
   requires "Test::More" => "0.96";
+  requires "Test::Timer" => "0";
   requires "Test::Warnings" => "0";
 };
 
